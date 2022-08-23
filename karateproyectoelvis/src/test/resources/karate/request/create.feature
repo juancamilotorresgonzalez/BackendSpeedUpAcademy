@@ -15,3 +15,4 @@ Feature: Create a new user
     When method post
     Then status 201
     * match response == responseGet
+

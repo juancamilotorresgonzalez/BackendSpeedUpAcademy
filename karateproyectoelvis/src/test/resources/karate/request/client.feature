@@ -25,3 +25,12 @@ Feature: Get service client
         | 1996    |
         | "#&%?." |
         | "Edwin" |
+
+  Scenario Outline: first name don't exist
+    Given path 'users', '2', <firstname>
+    When method get
+    Then status 404
+    Examples:
+      | firstname |
+      | "paula"   |
+      | "123camila"|
