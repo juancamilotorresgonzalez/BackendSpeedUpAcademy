@@ -30,5 +30,5 @@ Feature: Create a new user
       Examples:
 
       |wrongrequest|statuscode|
-      |'64894'     |201       |
-      |'kekw'      |201       |
+      |'696969'     |201       |
+      |'xxxx'      |201       |
