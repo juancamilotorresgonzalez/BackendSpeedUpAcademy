@@ -31,6 +31,6 @@ Feature: Service client Get
 
     Examples:
       | idUser  |
-      | 1996    |
-      | "@##**" |
-      | "caro"  |
+      | 1111    |
+      | "xxxx" |
+      | "camilo"  |
