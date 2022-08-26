@@ -1,5 +1,5 @@
 # Project Q.A Juan Torres---Request Backend
-
+***
 
 **_Tester Project for SpeedUpTech Academy_**
 
@@ -17,24 +17,42 @@ Dependencies
 **_Why This Project_**
 The realization of this project was done for academic and learning purposes to learn how to automate tests in karate 
 
-### Prerequisites
+
+
+***
+### Prerequisites:
+
+In order to execute the project, the following specifications are required:
+
+|Tool| Version|
+|:--------------|:-------------:|
+|:heavy_check_mark: Java Jdk |1.8 ,8 |
+|:heavy_check_mark: Maven |3.6.0 |
+|:heavy_check_mark: Karate |0.9.6 |
+
+
+***
+
+### To reproduce the reports from the browser, the following steps must be followed:
+
+:one: We go to the Target folder and expand it
+
+:two: We display the folder "Cucumber-html-reports"
+
+:three: Right click on the file "overview-features.html", select the option "Open in", then "Browser" and select the preferred browser.
+
+***
 
 
 
-```
-Intellij, Jdk8, cucumber , Karate, Maven
-```
-
-
-
-## Built With
+### Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
 
 
 
-## Versioning
+### Versioning
 
 1.0
 
@@ -43,7 +61,7 @@ Intellij, Jdk8, cucumber , Karate, Maven
 * **Juan Camilo Torres Gonzalez** 
 
 
-## License
+### License
 
 This project is licensed under the [Intellij 2022.1 free license] 
 
